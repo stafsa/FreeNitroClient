@@ -2,13 +2,13 @@
  * @name FreeNitro(client)
  * @author stafsastudios
  * @version 5.4.4
- * @invite EFmGEWAUns
- * @source -
- * @updateUrl -
+ * @invite
+ * @source https://github.com/stafsa/FreeNitroClient/tree/main
+ * @updateUrl https://github.com/stafsa/FreeNitroClient/tree/main
  */
 /*@cc_on
 @if(@_jscript)
-	
+	Note:This plugin made by riolhub, this is a modified version.Original source:https://github.com/riolubruh/YABDP4Nitro
 	// Offer to self-install for clueless users that try to run this directly.
 	var shell = WScript.CreateObject("WScript.Shell");
 	var fs = new ActiveXObject("Scripting.FileSystemObject");
